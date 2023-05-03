@@ -1,4 +1,4 @@
-# <Horiseon-Site>
+# Horiseon-Site
 
 ## Description
 
